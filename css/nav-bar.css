@@ -37,7 +37,7 @@
   border-radius: 50%;
 }
 
-@keyframes showNavBar {
+/* @keyframes showNavBar {
   from {
     transform: translateY(80px);
   }
@@ -49,4 +49,4 @@
 .nav {
   animation: showNavBar 0.5s ease-out forwards;
   animation-delay: 0.5s;
-}
+} */
